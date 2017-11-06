@@ -1,9 +1,8 @@
 # regEx
 What is the RegExp:
-	regexp stands for "Regular Expressions", which is an object that describes a pattern of 	characters. Syntax {/pattern/modifiers}
+	regexp stands for "Regular Expressions", which is an object that describes a pattern of characters. Syntax {/pattern/modifiers}
 
 
-regexp stands for "Regular Expressions", which is an object that describes a pattern of characters. Syntax {/pattern/modifiers}
 
 
 ##### For example,
