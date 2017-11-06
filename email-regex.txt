@@ -1,0 +1,13 @@
+The regex to making an email address is as follows
+
+[A-Za-z](\w+\.|\-?\w+){1,}@(\w+\-?\w+){3,}\.[a-zA-Z]{2,}(\.[A-Za-z]{2,})?
+
+A valid input conditions: 
+1. The Email must start with a character between [A-Z] or [a-z]
+2. The Email username (before @ sign) includes at least of 3 characters including '-' sign
+3. The Email domain (after @ sign) with at least 3 characters and at most 32 word characters
+4. The Email username and the domain must be separated with '@' sign
+5. The '@' sign can only occur once between the username and the domain
+6. The Email username can only contain [A-Z][a-z] characters including '_', '.' and '-'
+7. The Email Top level domain can include at least 2 of alphabitical characters
+
