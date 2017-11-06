@@ -11,3 +11,8 @@ A valid input conditions:
 6. The Email username can only contain [A-Z][a-z] characters including '_', '.' and '-'
 7. The Email Top level domain can include at least 2 of alphabitical characters
 
+
+To test goto 
+https://regex101.com/
+
+
