@@ -1,6 +1,6 @@
 The regex to making an email address is as follows
 
-[A-Za-z](\w+\.|\-?\w+){1,}@(\w+\-?\w+){2,}\.[a-zA-Z]{2,}(\.[A-Za-z]{2,})?
+[A-Za-z](\w+(\.|\-)?){1,}@(\w+\-?\w+){2,}\.[a-zA-Z]{2,}(\.[A-Za-z]{2,})?
 
 A valid input conditions: 
 1. The Email must start with a character between [A-Z] or [a-z]
